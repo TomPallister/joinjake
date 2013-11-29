@@ -114,6 +114,7 @@
     <Content Include="Resources\images\pub.psd" />
     <Content Include="Resources\images\sleep.psd" />
     <None Include="Properties\PublishProfiles\Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\DeployToAzure.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
